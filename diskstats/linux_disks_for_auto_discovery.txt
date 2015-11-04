@@ -1,0 +1,1 @@
+^(hd[a-z]|sd[a-z]|xvd[a-z][0-9]|dm-[0-9]|mmcblk[0-9])$
